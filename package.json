@@ -23,5 +23,8 @@
   "homepage": "https://github.com/Elenfe/js-tdd-course#readme",
   "dependencies": {
     "gitignorer": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
   }
 }
