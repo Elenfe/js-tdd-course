@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Elenfe/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/Elenfe/js-tdd-course#readme"
+  "homepage": "https://github.com/Elenfe/js-tdd-course#readme",
+  "dependencies": {
+    "gitignorer": "^1.0.0"
+  }
 }
