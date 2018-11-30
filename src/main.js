@@ -1,5 +1,8 @@
-a = 3;
-const b = 2
-const b = 4
+const a = 3;
+const b = 2;
+const c = 'dhh';
+function sum() {
+  return a + b + c;
+}
 
-const c = "ddddddddddddddddddddddddddddddddddddjkjkdjksdjfkljflkjlkfjdlkfjdfpdjfdf´pf´pskd´fk´pdskf´psdkf´psdkf´pksdf";
+sum();
