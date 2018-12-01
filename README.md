@@ -85,3 +85,21 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+## Instalação do eslint
+1 - npm install eslint --save-dev
+2 - ./node_modules/.bin/eslint --init
+
+ou
+
+1 - npx install-peerdeps --dev eslint-config-airbnb-base
+2 - ./node_modules/.bin/eslint --init
+
+## referencias:
+https://eslint.org/docs/user-guide/getting-started
+
+ou
+
+https://www.npmjs.com/package/eslint-config-airbnb-base
+
+* Comando para rodar o eslint - npm run lint em todo js.

@@ -1,0 +1,9 @@
+root = true
+
+[*] # Olha para tos os arquivos
+indent_style = space
+indent_size = 2 
+end_of_line = lf # Define o fim de linha
+charset = utf-8
+trim_trailing_whitespace = true # Apaga todo o espaço vazio que não são uteis
+insert_final_newline = true # Insere uma linha no final do arquivo.
